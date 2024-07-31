@@ -1,6 +1,6 @@
 # Customer Support Data Analysis
 **Overview:**
-This project analyzes customer support call data from January 1, 2021, to March 31, 2021. The dataset includes 5001 records detailing calls handled by various agents, focusing on metrics such as resolution status, talk time, and customer satisfaction.
+This project analyzes customer support call data from January 1, 2021, to March 31, 2021. The dataset includes 5001 records detailing calls handled by various agents, focusing on metrics such as resolution status, talk time, and customer satisfaction. SQL queries were used to extract insights and perform detailed analysis.
 
 **Dataset Details:**
 
